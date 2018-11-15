@@ -39,7 +39,7 @@ namespace ExtractWavelengthArr
                 Console.WriteLine("Please input enter key to exit this program.");
                 Console.ReadLine();
 
-                Console.WriteLine("GIT TESTING!!");
+                //Console.WriteLine("GIT TESTING!!");
 
                 wrapper.closeAllSpectrometers();
                 sw.Close();
