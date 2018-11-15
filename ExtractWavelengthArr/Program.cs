@@ -40,6 +40,7 @@ namespace ExtractWavelengthArr
                 Console.ReadLine();
 
                 //Console.WriteLine("GIT TESTING!!");
+				//Console.WriteLine("dummy");
 
                 wrapper.closeAllSpectrometers();
                 sw.Close();
